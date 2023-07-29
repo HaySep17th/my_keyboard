@@ -1,0 +1,8 @@
+file_format: "1"
+id: haysep17th
+name: haysep17th
+type: shield
+url: 
+requires: [nrfmicro_13_52840]
+features:
+  - keys
